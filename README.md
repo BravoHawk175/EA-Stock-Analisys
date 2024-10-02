@@ -1,0 +1,1 @@
+# EA-Stock-Analisys
